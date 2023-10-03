@@ -1,0 +1,602 @@
+[
+  {
+    "name": "Ferrari F40",
+    "year": "2018",
+    "capacity": "4",
+    "fuel": "Hybrid",
+    "mileage": "6.1km/1-litre",
+    "gear": "Automatic",
+    "rent": "650",
+    "images": "https://img-ik.cars.co.za/news-site-za/images/2018/12/FerrariF40a.jpg?tr=w-320"
+  },
+  {
+    "name": "Lamborghini Countach",
+    "year": "2018",
+    "capacity": "4",
+    "fuel": "Diesel",
+    "mileage": "5km/1-litre",
+    "gear": "Automatic",
+    "rent": "600",
+    "images": "https://img-ik.cars.co.za/news-site-za/images/2018/12/Lamborghini-Countach-Quattrovalvole.jpg?tr=w-320"
+  },
+  {
+    "name": "Lancia Delta Integrale",
+    "year": "2021",
+    "capacity": "4",
+    "fuel": "Hybrid",
+    "mileage": "6.1km/1-litre",
+    "gear": "Automatic",
+    "rent": "440",
+    "images": "https://img-ik.cars.co.za/news-site-za/images/2018/12/Lancia-Delta_Integrale.jpg?tr=w-768"
+  },
+  {
+    "name": "Ford Mustang",
+    "year": "2012",
+    "capacity": "4",
+    "fuel": "Hybrid",
+    "mileage": "6.1km/1-litre",
+    "gear": "Automatic",
+    "rent": "440",
+    "images": "https://img-ik.cars.co.za/news-site-za/images/2018/12/Ford-Mustang_Shelby_GT350.jpg?tr=w-768"
+  },
+  {
+    "name": "Lexus LFA",
+    "year": "2021",
+    "capacity": "4",
+    "fuel": "Hybrid",
+    "mileage": "6.1km/1-litre",
+    "gear": "Automatic",
+    "rent": "440",
+    "images": "https://img-ik.cars.co.za/news-site-za/images/2018/12/Lexus-LFA.jpg?tr=w-768"
+  },
+  {
+    "name": "Lamborghini Urus",
+    "year": "2021",
+    "capacity": "4",
+    "fuel": "Hybrid",
+    "mileage": "6.1km/1-litre",
+    "gear": "Automatic",
+    "rent": "440",
+    "images": "https://img-ik.cars.co.za/news-site-za/images/2018/12/lamborghini-urus.jpg?tr=w-768"
+  },
+  {
+    "name": "Singer 911",
+    "year": "2021",
+    "capacity": "4",
+    "fuel": "Hybrid",
+    "mileage": "6.1km/1-litre",
+    "gear": "Automatic",
+    "rent": "440",
+    "images": "https://img-ik.cars.co.za/news-site-za/images/2018/12/Singer-911-Porsche.jpg?tr=w-768"
+  },
+  {
+    "name": "Volkswagen Kombi Splitty",
+    "year": "2021",
+    "capacity": "4",
+    "fuel": "Hybrid",
+    "mileage": "6.1km/1-litre",
+    "gear": "Automatic",
+    "rent": "440",
+    "images": "https://img-ik.cars.co.za/news-site-za/images/2018/12/VWKombiSplitty.jpg?tr=w-768"
+  },
+  {
+    "name": "BMW 325iS/333i",
+    "year": "2021",
+    "capacity": "4",
+    "fuel": "Hybrid",
+    "mileage": "6.1km/1-litre",
+    "gear": "Automatic",
+    "rent": "440",
+    "images": "https://img-ik.cars.co.za/news-site-za/images/2019/03/bmw325is333i2.jpg?tr=w-768"
+  },
+  {
+    "name": "Mazda MX-5",
+    "year": "2021",
+    "capacity": "4",
+    "fuel": "Hybrid",
+    "mileage": "6.1km/1-litre",
+    "gear": "Automatic",
+    "rent": "440",
+    "images": "https://img-ik.cars.co.za/news-site-za/images/2018/12/Mazda-MX5.jpg?tr=w-768"
+  },
+  {
+    "name": "Ferrari 288 GTO",
+    "year": "2021",
+    "capacity": "4",
+    "fuel": "Hybrid",
+    "mileage": "6.1km/1-litre",
+    "gear": "Automatic",
+    "rent": "440",
+    "images": "https://img-ik.cars.co.za/news-site-za/images/2018/12/Ferrari288GTOa.jpg?tr=w-768"
+  },
+  {
+    "name": "Porsche 959",
+    "year": "2021",
+    "capacity": "4",
+    "fuel": "Hybrid",
+    "mileage": "6.1km/1-litre",
+    "gear": "Automatic",
+    "rent": "440",
+    "images": "https://img-ik.cars.co.za/news-site-za/images/2018/12/Porsche959a.jpg?tr=w-768"
+  },
+  {
+    "name": "Ariel Atom",
+    "year": "2021",
+    "capacity": "4",
+    "fuel": "Hybrid",
+    "mileage": "6.1km/1-litre",
+    "gear": "Automatic",
+    "rent": "440",
+    "images": "https://img-ik.cars.co.za/news-site-za/images/2018/12/Ariel-Atom.jpg?tr=w-768"
+  },
+  {
+    "name": "Jaguar E-Type",
+    "year": "2021",
+    "capacity": "4",
+    "fuel": "Hybrid",
+    "mileage": "6.1km/1-litre",
+    "gear": "Automatic",
+    "rent": "440",
+    "images": "https://img-ik.cars.co.za/news-site-za/images/2018/12/JaguarEtype02.jpg?tr=w-768"
+  },
+  {
+    "name": "Lamborghini Sesto Elemento",
+    "year": "2021",
+    "capacity": "4",
+    "fuel": "Hybrid",
+    "mileage": "6.1km/1-litre",
+    "gear": "Automatic",
+    "rent": "440",
+    "images": "https://img-ik.cars.co.za/news-site-za/images/2018/12/Lamborghini-Sesto_Elemento.jpg?tr=w-768"
+  },
+  {
+    "name": "Lamborghini Miura",
+    "year": "2021",
+    "capacity": "4",
+    "fuel": "Hybrid",
+    "mileage": "6.1km/1-litre",
+    "gear": "Automatic",
+    "rent": "440",
+    "images": "https://img-ik.cars.co.za/news-site-za/images/2018/12/Lamborghini-Miura.jpg?tr=w-768"
+  },
+  {
+    "name": "Mercedes-Benz 300SL",
+    "year": "2021",
+    "capacity": "4",
+    "fuel": "Hybrid",
+    "mileage": "6.1km/1-litre",
+    "gear": "Automatic",
+    "rent": "440",
+    "images": "https://img-ik.cars.co.za/news-site-za/images/2018/12/Mercedes300SLgullwing.jpg?tr=w-768"
+  },
+  {
+    "name": "Alfa Romeo 8C",
+    "year": "2021",
+    "capacity": "4",
+    "fuel": "Hybrid",
+    "mileage": "6.1km/1-litre",
+    "gear": "Automatic",
+    "rent": "440",
+    "images": "https://img-ik.cars.co.za/news-site-za/images/2018/12/Alfa-8C-Comp.jpg?tr=w-768"
+  },
+  {
+    "name": "Renault Clio V6",
+    "year": "2021",
+    "capacity": "4",
+    "fuel": "Hybrid",
+    "mileage": "6.1km/1-litre",
+    "gear": "Automatic",
+    "rent": "440",
+    "images": "https://img-ik.cars.co.za/news-site-za/images/2018/12/Renault-Clio-V6.jpg?tr=w-768"
+  },
+  {
+    "name": "Chevrolet Corvette Stingray",
+    "year": "2021",
+    "capacity": "4",
+    "fuel": "Hybrid",
+    "mileage": "6.1km/1-litre",
+    "gear": "Automatic",
+    "rent": "440",
+    "images": "https://img-ik.cars.co.za/news-site-za/images/2018/12/Chevrolet-Corvette-Stingray.jpg?tr=w-768"
+  },
+  {
+    "name": "Lancia Stratos HF",
+    "year": "2021",
+    "capacity": "4",
+    "fuel": "Hybrid",
+    "mileage": "6.1km/1-litre",
+    "gear": "Automatic",
+    "rent": "440",
+    "images": "https://img-ik.cars.co.za/news-site-za/images/2018/12/Lancia-Stratos.jpg?tr=w-768"
+  },
+  {
+    "name": "Mercedes-Benz G55 AMG",
+    "year": "2021",
+    "capacity": "4",
+    "fuel": "Hybrid",
+    "mileage": "6.1km/1-litre",
+    "gear": "Automatic",
+    "rent": "440",
+    "images": "https://img-ik.cars.co.za/news-site-za/images/2018/12/Mercedes-Benz-G55-AMG.jpg?tr=w-768"
+  },
+  {
+    "name": "Ferrari 250 GT Lusso",
+    "year": "2021",
+    "capacity": "4",
+    "fuel": "Hybrid",
+    "mileage": "6.1km/1-litre",
+    "gear": "Automatic",
+    "rent": "440",
+    "images": "https://img-ik.cars.co.za/news-site-za/images/2018/12/Ferrari-250-GT-Lusso.png?tr=w-768"
+  },
+  {
+    "name": "Koenigsegg CCXR",
+    "year": "2021",
+    "capacity": "4",
+    "fuel": "Hybrid",
+    "mileage": "6.1km/1-litre",
+    "gear": "Automatic",
+    "rent": "440",
+    "images": "https://img-ik.cars.co.za/news-site-za/images/2018/12/Koenigsegg-CCXR.jpg?tr=w-768"
+  },
+  {
+    "name": "Audi RS2 Avant",
+    "year": "2021",
+    "capacity": "4",
+    "fuel": "Hybrid",
+    "mileage": "6.1km/1-litre",
+    "gear": "Automatic",
+    "rent": "440",
+    "images": "https://img-ik.cars.co.za/news-site-za/images/2018/12/Audi-RS2-Avant.jpg?tr=w-768"
+  },
+  {
+    "name": "Ford Escort RS Cosworth",
+    "year": "2021",
+    "capacity": "4",
+    "fuel": "Hybrid",
+    "mileage": "6.1km/1-litre",
+    "gear": "Automatic",
+    "rent": "440",
+    "images": "https://img-ik.cars.co.za/news-site-za/images/2018/12/Ford-Escort-cosworth.jpg?tr=w-768"
+  },
+  {
+    "name": "Talbot-Lago",
+    "year": "2021",
+    "capacity": "4",
+    "fuel": "Hybrid",
+    "mileage": "6.1km/1-litre",
+    "gear": "Automatic",
+    "rent": "440",
+    "images": "https://img-ik.cars.co.za/news-site-za/images/2018/12/Talbot-Lago-T150-CSS.jpg?tr=w-768"
+  },
+  {
+    "name": "BMW 3.0 CSL",
+    "year": "2021",
+    "capacity": "4",
+    "fuel": "Hybrid",
+    "mileage": "6.1km/1-litre",
+    "gear": "Automatic",
+    "rent": "440",
+    "images": "https://img-ik.cars.co.za/news-site-za/images/2018/12/BMW-3_0-CSL.jpg?tr=w-768"
+  },
+  {
+    "name": "Tesla Model S P100D",
+    "year": "2021",
+    "capacity": "4",
+    "fuel": "Hybrid",
+    "mileage": "6.1km/1-litre",
+    "gear": "Automatic",
+    "rent": "440",
+    "images": "https://img-ik.cars.co.za/news-site-za/images/2018/12/Tesla-Model-S.jpg?tr=w-768"
+  },
+  {
+    "name": "Alfa Romeo 33 Stradale",
+    "year": "2021",
+    "capacity": "4",
+    "fuel": "Hybrid",
+    "mileage": "6.1km/1-litre",
+    "gear": "Automatic",
+    "rent": "440",
+    "images": "https://img-ik.cars.co.za/news-site-za/images/2018/12/Alfa-Romeo-33-Stradale.jpg?tr=w-768"
+  },
+  {
+    "name": "Audi TT",
+    "year": "2021",
+    "capacity": "4",
+    "fuel": "Hybrid",
+    "mileage": "6.1km/1-litre",
+    "gear": "Automatic",
+    "rent": "440",
+    "images": "https://img-ik.cars.co.za/news-site-za/images/2018/12/Audi-TT.jpg?tr=w-768"
+  },
+  {
+    "name": "Lotus Carlton",
+    "year": "2021",
+    "capacity": "4",
+    "fuel": "Hybrid",
+    "mileage": "6.1km/1-litre",
+    "gear": "Automatic",
+    "rent": "440",
+    "images": "https://img-ik.cars.co.za/news-site-za/images/2018/12/Lotus-Carlton.jpg?tr=w-768"
+  },
+  {
+    "name": "Ferrari F355",
+    "year": "2021",
+    "capacity": "4",
+    "fuel": "Hybrid",
+    "mileage": "6.1km/1-litre",
+    "gear": "Automatic",
+    "rent": "440",
+    "images": "https://img-ik.cars.co.za/news-site-za/images/2018/12/Ferrari-355.jpg?tr=w-768"
+  },
+  {
+    "name": "Honda S2000",
+    "year": "2021",
+    "capacity": "4",
+    "fuel": "Hybrid",
+    "mileage": "6.1km/1-litre",
+    "gear": "Automatic",
+    "rent": "440",
+    "images": "https://img-ik.cars.co.za/news-site-za/images/2018/12/Honda-S2000.jpg?tr=w-768"
+  },
+  {
+    "name": "Cizeta-Moroder V16T",
+    "year": "2021",
+    "capacity": "4",
+    "fuel": "Hybrid",
+    "mileage": "6.1km/1-litre",
+    "gear": "Automatic",
+    "rent": "440",
+    "images": "https://img-ik.cars.co.za/news-site-za/images/2018/12/CizetaMoroderV16T.jpg?tr=w-768"
+  },
+  {
+    "name": "Mercedes-Benz CLK GTR",
+    "year": "2021",
+    "capacity": "4",
+    "fuel": "Hybrid",
+    "mileage": "6.1km/1-litre",
+    "gear": "Automatic",
+    "rent": "440",
+    "images": "https://img-ik.cars.co.za/news-site-za/images/2018/12/Mercedes-Benz-CLK_GTR-1999.jpg?tr=w-768"
+  },
+  {
+    "name": "Lotus 340R",
+    "year": "2021",
+    "capacity": "4",
+    "fuel": "Hybrid",
+    "mileage": "6.1km/1-litre",
+    "gear": "Automatic",
+    "rent": "440",
+    "images": "https://img-ik.cars.co.za/news-site-za/images/2018/12/Lotus-340R.jpg?tr=w-768"
+  },
+  {
+    "name": "Eagle Speedster",
+    "year": "2021",
+    "capacity": "4",
+    "fuel": "Hybrid",
+    "mileage": "6.1km/1-litre",
+    "gear": "Automatic",
+    "rent": "440",
+    "images": "https://img-ik.cars.co.za/news-site-za/images/2018/12/Eagle-Speedster.jpg?tr=w-768"
+  },
+  {
+    "name": "Mercedes Benz 190E",
+    "year": "2021",
+    "capacity": "4",
+    "fuel": "Hybrid",
+    "mileage": "6.1km/1-litre",
+    "gear": "Automatic",
+    "rent": "440",
+    "images": "https://img-ik.cars.co.za/news-site-za/images/2018/12/Mercedes-Benz-190E.jpg?tr=w-768"
+  },
+  {
+    "name": "BMW e28 M5",
+    "year": "2021",
+    "capacity": "4",
+    "fuel": "Hybrid",
+    "mileage": "6.1km/1-litre",
+    "gear": "Automatic",
+    "rent": "440",
+    "images": "https://img-ik.cars.co.za/news-site-za/images/2018/12/BMW-M5-1984-1600-01.jpg?tr=w-768"
+  },
+  {
+    "name": "Aston Martin DB5",
+    "year": "2021",
+    "capacity": "4",
+    "fuel": "Hybrid",
+    "mileage": "6.1km/1-litre",
+    "gear": "Automatic",
+    "rent": "440",
+    "images": "https://img-ik.cars.co.za/news-site-za/images/2018/12/Aston-Martin-DB5.jpg?tr=w-768"
+  },
+  {
+    "name": "Bugatti EB 110 SS",
+    "year": "2021",
+    "capacity": "4",
+    "fuel": "Hybrid",
+    "mileage": "6.1km/1-litre",
+    "gear": "Automatic",
+    "rent": "440",
+    "images": "https://img-ik.cars.co.za/news-site-za/images/2018/12/bugatti-eb110-ss.jpg?tr=w-768"
+  },
+  {
+    "name": "Renault Sport Spider",
+    "year": "2021",
+    "capacity": "4",
+    "fuel": "Hybrid",
+    "mileage": "6.1km/1-litre",
+    "gear": "Automatic",
+    "rent": "440",
+    "images": "https://img-ik.cars.co.za/news-site-za/images/2018/12/Renault-Sport-Spider.jpg?tr=w-768"
+  },
+  {
+    "name": "Lamborghini LM002",
+    "year": "2021",
+    "capacity": "4",
+    "fuel": "Hybrid",
+    "mileage": "6.1km/1-litre",
+    "gear": "Automatic",
+    "rent": "440",
+    "images": "https://img-ik.cars.co.za/news-site-za/images/2018/12/Lamborghini-LM002.jpg?tr=w-768"
+  },
+  {
+    "name": "Honda NSX",
+    "year": "2021",
+    "capacity": "4",
+    "fuel": "Hybrid",
+    "mileage": "6.1km/1-litre",
+    "gear": "Automatic",
+    "rent": "440",
+    "images": "https://img-ik.cars.co.za/news-site-za/images/2018/12/Honda-NSX.jpg?tr=w-768"
+  },
+  {
+    "name": "Mercedes-Benz 600",
+    "year": "2021",
+    "capacity": "4",
+    "fuel": "Hybrid",
+    "mileage": "6.1km/1-litre",
+    "gear": "Automatic",
+    "rent": "440",
+    "images": "https://img-ik.cars.co.za/news-site-za/images/2018/12/Mercedes600Grosser.jpg?tr=w-768"
+  },
+  {
+    "name": "Dodge Challenger SRT",
+    "year": "2021",
+    "capacity": "4",
+    "fuel": "Hybrid",
+    "mileage": "6.1km/1-litre",
+    "gear": "Automatic",
+    "rent": "440",
+    "images": "https://img-ik.cars.co.za/news-site-za/images/2018/12/Dodge-Challenger_SRT_Demon.jpg?tr=w-768"
+  },
+  {
+    "name": "BMW 507",
+    "year": "2021",
+    "capacity": "4",
+    "fuel": "Hybrid",
+    "mileage": "6.1km/1-litre",
+    "gear": "Automatic",
+    "rent": "440",
+    "images": "https://img-ik.cars.co.za/news-site-za/images/2018/12/BMW-507.jpg?tr=w-768"
+  },
+  {
+    "name": "Porsche Carrera GT",
+    "year": "2021",
+    "capacity": "4",
+    "fuel": "Hybrid",
+    "mileage": "6.1km/1-litre",
+    "gear": "Automatic",
+    "rent": "440",
+    "images": "https://img-ik.cars.co.za/news-site-za/images/2018/12/Porsche-Carrera-GT.jpg?tr=w-768"
+  },
+  {
+    "name": "Jaguar XJ220",
+    "year": "2021",
+    "capacity": "4",
+    "fuel": "Hybrid",
+    "mileage": "6.1km/1-litre",
+    "gear": "Automatic",
+    "rent": "440",
+    "images": "https://img-ik.cars.co.za/news-site-za/images/2018/12/Jaguar-XJ220.jpg?tr=w-768"
+  },
+  {
+    "name": "Subaru Impreza 22b",
+    "year": "2021",
+    "capacity": "4",
+    "fuel": "Hybrid",
+    "mileage": "6.1km/1-litre",
+    "gear": "Automatic",
+    "rent": "440",
+    "images": "https://img-ik.cars.co.za/news-site-za/images/2018/12/Subaru-22b.jpg?tr=w-768"
+  },
+  {
+    "name": "Volvo 850 R Estate",
+    "year": "2021",
+    "capacity": "4",
+    "fuel": "Hybrid",
+    "mileage": "6.1km/1-litre",
+    "gear": "Automatic",
+    "rent": "440",
+    "images": "https://img-ik.cars.co.za/news-site-za/images/2018/12/Volvo-850R.jpg?tr=w-768"
+  },
+  {
+    "name": "Toyota 2000GT",
+    "year": "2021",
+    "capacity": "4",
+    "fuel": "Hybrid",
+    "mileage": "6.1km/1-litre",
+    "gear": "Automatic",
+    "rent": "440",
+    "images": "https://img-ik.cars.co.za/news-site-za/images/2018/12/Toyota-2000GT.jpg?tr=w-768"
+  },
+  {
+    "name": "Suzuki SJ410",
+    "year": "2021",
+    "capacity": "4",
+    "fuel": "Hybrid",
+    "mileage": "6.1km/1-litre",
+    "gear": "Automatic",
+    "rent": "440",
+    "images": "https://img-ik.cars.co.za/news-site-za/images/2018/12/SuzukiJimnySJ410.jpg?tr=w-768"
+  },
+  {
+    "name": "Nissan GT-R R34",
+    "year": "2021",
+    "capacity": "4",
+    "fuel": "Hybrid",
+    "mileage": "6.1km/1-litre",
+    "gear": "Automatic",
+    "rent": "440",
+    "images": "https://img-ik.cars.co.za/news-site-za/images/2018/12/Nissan-Skyline-GT-R-R34.jpg?tr=w-768"
+  },
+  {
+    "name": "Mini Cooper S",
+    "year": "2021",
+    "capacity": "4",
+    "fuel": "Hybrid",
+    "mileage": "6.1km/1-litre",
+    "gear": "Automatic",
+    "rent": "440",
+    "images": "https://img-ik.cars.co.za/news-site-za/images/2018/12/Mini-Cooper_S-1968-1600-01.jpg?tr=w-768"
+  },
+  {
+    "name": "DeLorean DMC-12",
+    "year": "2021",
+    "capacity": "4",
+    "fuel": "Hybrid",
+    "mileage": "6.1km/1-litre",
+    "gear": "Automatic",
+    "rent": "440",
+    "images": "https://img-ik.cars.co.za/news-site-za/images/2018/12/delorean-from-official-brochure.jpg?tr=w-768"
+  },
+  {
+    "name": "BMW M1",
+    "year": "2021",
+    "capacity": "4",
+    "fuel": "Hybrid",
+    "mileage": "6.1km/1-litre",
+    "gear": "Automatic",
+    "rent": "440",
+    "images": "https://img-ik.cars.co.za/news-site-za/images/2018/12/BMW-M1.jpg?tr=w-768"
+  },
+  {
+    "name": "Toyota AE86",
+    "year": "2021",
+    "capacity": "4",
+    "fuel": "Hybrid",
+    "mileage": "6.1km/1-litre",
+    "gear": "Automatic",
+    "rent": "440",
+    "images": "https://img-ik.cars.co.za/news-site-za/images/2018/12/Toyota-86.jpg?tr=w-768"
+  },
+  {
+    "name": "Porsche 550 Spyder",
+    "year": "2021",
+    "capacity": "4",
+    "fuel": "Hybrid",
+    "mileage": "6.1km/1-litre",
+    "gear": "Automatic",
+    "rent": "440",
+    "images": "https://img-ik.cars.co.za/news-site-za/images/2018/12/Porsche-550-Spyder.jpg?tr=w-768"
+  }
+]
