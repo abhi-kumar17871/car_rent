@@ -7,8 +7,8 @@ const SearchBar = ({ setSearch, setCurrentPage }) => {
     <div className="mx-20">
       <div className="py-2">
         <div className="mx-2 p-2 rounded-lg bg-blue-100 drop-shadow-lg flex items-center justify-between">
-          <div className="font-semibold text-xl px-4">STAZI</div>
-          <form className="pl-32">
+          <div className="tracking-wider font-bold text-3xl px-4">STAZI</div>
+          <form className="pl-24">
             <div className="bg-white rounded-lg flex items-center px-2 border-2 border-gray-300 border-solid">
               <input
                 type="text"

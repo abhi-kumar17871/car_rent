@@ -4,7 +4,7 @@ const Pagination = ({ totalPages, currentPage, handlePageChange }) => {
   return (
     <div className="mx-20">
       <div className="py-2 flex justify-center">
-        <div className="my-4 bg-blue-100 drop-shadow-lg rounded-lg w-fit h-10 flex items-center">
+        <div className="my-4 bg-blue-100 drop-shadow-lg rounded-lg w-fit h-10 flex items-center font-semibold text-lg">
           <button
             onClick={() => handlePageChange(currentPage - 1)}
             className={`mx-2 ${
